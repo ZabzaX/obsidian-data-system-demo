@@ -9,7 +9,6 @@ This project demonstrates how structured data (YAML) can be used to design inter
 - Dynamic queries and dashboards
 - Custom scripting (DataviewJS – shop system)
 - Quest and level design integration
-- 
 ## Showcase
 
 ### Region / World Structure
